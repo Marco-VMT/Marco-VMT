@@ -136,7 +136,7 @@ Este trabalho teve como objetivo estudar a produção e as características dos 
 
 
 ## Conecte-se Comigo
-- [LinkedIn: Marco Antônio Mota](https://www.linkedin.com/in/marco-ant%C3%B4nio-mota-b10b70158/)
+- [LinkedIn: Marco Antônio Mota](https://www.linkedin.com/in/marcoantoniovianamota/)
 - [GitHub: Marco-VMT](https://github.com/Marco-VMT)<br><br>
 
 ### Estou sempre aberto a novas oportunidades, discussões e aprendizados. Vamos trocar ideias!
