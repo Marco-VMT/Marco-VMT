@@ -34,7 +34,7 @@ Carga horária: 40 horas
 
 ### Curso de Introdução à Ciência da Computação com Python - Parte 2  
 **Universidade de São Paulo (USP)**  
-*Em andamento*
+*Em andamento*  
 [Link para o curso](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2#about)<br><br>
 
 ## Competências e Habilidades
