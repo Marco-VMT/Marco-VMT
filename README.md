@@ -32,6 +32,11 @@ Coeficiente de Rendimento: 9,16<br><br>
 Carga horária: 40 horas  
 [Link para o curso](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)<br><br>
 
+### Curso de Introdução à Ciência da Computação com Python - Parte 2  
+**Universidade de São Paulo (USP)**  
+*Em andamento*
+[Link para o curso](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2#about)<br><br>
+
 ## Competências e Habilidades
 - **Resolução de Problemas:** Boa capacidade de identificar e solucionar problemas com abordagem analítica.
 - **Pensamento Analítico e Proatividade:** Sempre busco otimizar processos e oferecer soluções inovadoras.
