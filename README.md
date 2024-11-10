@@ -40,7 +40,7 @@ Carga horária: 40 horas
 [Link para o curso](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2#about)<br><br>
 
 ## Conecte-se Comigo
-Para saber mais das minhas competências, habilidades e experência profissional, acesse:<br>  
+Para saber mais das minhas competências, habilidades e experência profissionais, acesse:<br>  
 **[LinkedIn: Marco Antônio Mota](https://www.linkedin.com/in/marcoantoniovianamota/)**<br>  
 
 ### Estou sempre aberto a novas oportunidades, discussões e aprendizados. Vamos trocar ideias!
